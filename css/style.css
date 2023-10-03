@@ -8,14 +8,14 @@ body{
 }
 .titolo{
     font-family: 'Roboto condensed';
-    font-size: 28px;
+    font-size: 34px;
     padding-top: 5%;
     padding-bottom: 2%;
 }
 
 .sito{
     font-family: 'Open Sans';
-    font-size: 20px;
+    font-size: 24px;
     color: #3fa535;
     padding-left: 2%;
 }
@@ -24,7 +24,7 @@ body{
     font-family: 'EB Garamond';
     color: grey;
     padding-bottom: 2%;
-    font-size: 20px;
+    font-size: 24px;
         
 }
 
