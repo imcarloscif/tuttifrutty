@@ -1,0 +1,57 @@
+body{
+    background-color: #F0F0F0;
+}
+
+.testo{
+    padding-left: 5%;
+    padding-right: 50%;
+}
+.titolo{
+    font-family: 'Roboto condensed';
+    font-size: 28px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.sito{
+    font-family: 'Open Sans';
+    font-size: 20px;
+    color: #3fa535;
+    padding-left: 2%;
+}
+
+.descriz{
+    font-family: 'EB Garamond';
+    color: grey;
+    padding-bottom: 2%;
+    font-size: 20px;
+        
+}
+
+@media only screen and (max-width: 900px) {
+    
+    .testo{
+    padding-left: 5%;
+        padding-right: 5%;
+}
+.titolo{
+    font-family: 'Roboto condensed';
+    font-size: 22px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.sito{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #3fa535;
+    padding-left: 2%;
+}
+
+.descriz{
+    font-family: 'EB Garamond';
+    color: grey;
+    padding-bottom: 2%;
+    font-size: 14px;
+        
+}
